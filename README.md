@@ -17,4 +17,4 @@ This repository includes a simple website built using VS Code, HTML, and CSS. Th
 * Markdown markup language
 
 # Live Site
-https://rcooke13.github.io/AIassistedev/
+https://rcooke13.github.io/AIassistedwebsitedev/ 
